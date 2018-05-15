@@ -1,0 +1,24 @@
+{
+  "name": "myPorfolio",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "nodemon bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarSpickerman/EdgarSpickerman.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarSpickerman/EdgarSpickerman.github.io/issues"
+  },
+  "homepage": "https://github.com/EdgarSpickerman/EdgarSpickerman.github.io#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
